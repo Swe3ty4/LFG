@@ -607,4 +607,5 @@ func main() {
 	y := []string{"ab", "a"}
 	y = y[:0]
 	fmt.Println(y)
+	print("gggggggg")
 }
